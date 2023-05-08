@@ -1,1 +1,1 @@
-# MahjongTournamentSuite2
+# MahjongTournamentSuiteApp
